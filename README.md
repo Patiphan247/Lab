@@ -12,12 +12,10 @@
 [สมัคร Account Github](https://www.youtube.com/watch?v=8VgdmDZhwt8)
 
 ## การทดลองที่ 4
-การนำเสนอการประยุกต์ใช้งาน Controller กับในชีวิตประจำวัน ความน่าจะเป็น ความสร้างสรรค์
+การนำเสนอการประยุกต์ใช้งาน Controller กับในชีวิตประจำวัน ความสร้างสรรค์ การสร้างสรรค์ github page และสรุปผลการทดลอง
 
-https://drive.google.com/file/d/1SVNO-aB573iIQKzqH7wj3QW5QUwKH-_Y/view?usp=sharing
+[สื่อนำเสนอ การประยุกต์ใช้ Controller ในชีวิตประจำวัน](https://drive.google.com/file/d/1SVNO-aB573iIQKzqH7wj3QW5QUwKH-_Y/view?usp=sharing)
 
-การจัดทำ github page
-
-https://patiphan247.github.io/Lab/
+[การจัดทำ github page](https://patiphan247.github.io/Lab/)
 
 -------------
